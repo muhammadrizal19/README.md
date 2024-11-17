@@ -1,8 +1,7 @@
 # README.md.
 # TUGAS PEMROGRAMAN PERTEMUAN 9
-![IMG-20241116-WA0007](https://github.com/user-attachments/assets/67bdf9d9-1544-4e1e-98b7-ee70fa5630b4)
-![IMG-20241116-WA0006](https://github.com/user-attachments/assets/e6cf436a-0b17-4d8e-a60c-668fc08e406e)
-![IMG-20241116-WA0005](https://github.com/user-attachments/assets/c4031174-44e1-4ddb-834a-d749e8326ff8)
+![ss rzl](https://github.com/user-attachments/assets/e5dc8b14-53d9-478c-bde4-ca0dc5a8f60f)
+![ss rzl2](https://github.com/user-attachments/assets/4a8cbacf-aeb5-42f1-9726-d890c9ab7064)
 
 
 
@@ -76,3 +75,4 @@ Setelah semua data diinput, program akan menampilkan daftar semua siswa yang tel
 Program ini adalah contoh sederhana dari sistem manajemen data siswa yang dapat digunakan untuk menginput, menghitung, dan menampilkan nilai akhir siswa. Program ini dapat dikembangkan lebih lanjut dengan menambahkan fitur seperti validasi input, penyimpanan ke file, atau pengeditan data.
 
 # Flowchart
+![flwchrt](https://github.com/user-attachments/assets/002bbf38-b2c5-4ca5-a2a0-56196e520c6f)
